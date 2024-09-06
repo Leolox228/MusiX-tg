@@ -4,11 +4,11 @@
 ## Установка:
 ### Установите репозиторий:
 ```
-git clone https://github.com/Leolox228/MusiX-tg-.git
+git clone https://github.com/Leolox228/MusiX-tg.git
 ```
 ### Перейдите в папку с репозиторием:
 ```
-cd MusiX-tg-
+cd MusiX-tg
 ```
 ### Установите зависимости:
 ```
