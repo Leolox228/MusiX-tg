@@ -29,6 +29,14 @@
 ### При нажатии на "Чарт", сообщение измениться на интерактивное меню с треками из "Чарта" Яндекс Музыки:
 ![image](https://github.com/user-attachments/assets/f3f8bb52-0369-4e2f-ac8d-ad1bfd13e558)
 ## Установка:
+### Установите репозиторий:
+```
+git clone https://github.com/Leolox228/MusiX-tg-.git
+```
+### Перейдите в папку с репозиторием:
+```
+cd MusiX-tg-
+```
 ### Установите зависимости:
 ```
 pip install -r requirements.txt
